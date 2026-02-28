@@ -8,14 +8,14 @@
     <meta name="theme-color" content="#282828">
     <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjdESXenvlvyubtuoCAbMIAQ185ND9wGqrM_v5bU8Ufnf7CTbtCXPjrNRKsXB7SOEESYoKEj7e8PAcK827O0ZWfwXcmAXqlf_bOsvaNVIWpJXJVSBsRNi1KYxwSWZ4BMkjxxwisTA6XzwhwVF7tIbi3LyB-4yAlVOpOL2cJNSHDd9TZdmtE7SPd-Yq9pbb/s256/favicon.png"
       type="image/png">
-    <link rel="canonical" href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">
+    <link rel="canonical" href="https://mamababyfund.org/contact/">
     <link rel="amphtml" href="https://quiz4dspanzoui.pages.dev/">
     <title>
       Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026
     </title>
     <!-- /snippets/social-meta-tags.liquid -->
     <meta property="og:site_name" content="QUIZ4D">
-    <meta property="og:url" content="https://altosdelbosque.com.ar/contacto-y-ubicacion/">
+    <meta property="og:url" content="https://mamababyfund.org/contact/">
     <meta property="og:title" content="Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026">
     <meta property="og:type" content="product">
     <meta property="og:description"
@@ -40,12 +40,12 @@
     <meta name="google-site-verification" content="hGRmPxniqhMwiRpZ8MFIOxT6mW3wOBRQA_WffGmrNSk">
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/60844245227/digital_wallets/dialog">
     <meta name="shopify-checkout-api-token" content="2f8cdde862c570bd77ee62355fb2d349">
-    <link rel="alternate" type="application/json+oembed" href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">
+    <link rel="alternate" type="application/json+oembed" href="https://mamababyfund.org/contact/">
     <script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
     <link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
     <!-- END app snippet --><!-- BEGIN app snippet: avada-seo-social -->
     <meta property="og:site_name" content="QUIZ4D">
-    <meta property="og:url" content="https://altosdelbosque.com.ar/contacto-y-ubicacion/">
+    <meta property="og:url" content="https://mamababyfund.org/contact/">
     <meta property="og:type" content="product">
     <meta property="og:title" content="Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026">
     <meta property="og:description"
@@ -75,7 +75,7 @@
       {
         "@context": "https://schema.org",
         "@type": "ProductGroup",
-        "@id": "https://altosdelbosque.com.ar/contacto-y-ubicacion/",
+        "@id": "https://mamababyfund.org/contact/",
         "name": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026",
         "description": ""
       ,"productGroupID": "7695179448555","brand": {
@@ -90,12 +90,12 @@
                 "@type": "Offer",
                 "price": 35.0,
                 "priceCurrency": "USD",
-                "itemCondition": "https://schema.org/NewCondition","url": "https://altosdelbosque.com.ar/contacto-y-ubicacion/?variant=42849557217515"}
+                "itemCondition": "https://schema.org/NewCondition","url": "https://mamababyfund.org/contact/?variant=42849557217515"}
             }],"offers": {
           "@type": "Offer",
           "price": "35.0",
           "priceCurrency": "USD",
-          "itemCondition": "https://schema.org/NewCondition","url": "https://altosdelbosque.com.ar/contacto-y-ubicacion/"
+          "itemCondition": "https://schema.org/NewCondition","url": "https://mamababyfund.org/contact/"
         },
         "image": ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjemZUKPeSGXry1XBV7-GVjrxIzX3zdoekBkEoynDkFMSWoHcL0PqGgMYH8fzzqi3XgO5ZY7XT0FWHL-ve84K5eowbgR1fleH1QIddDz-v_bXKypZp0yghg048fGj0HXMxLqXTai0ideocsNfTO-ig8SfiEcOXAuz5aO3UoBzA9gyLZc2fKUlvOgSwPytzX/s1000/POSEIDONQUIZ1.png?v=1706325527"],"sku": "33366699936969","gtin": "33366699936969","releaseDate": "2025-06-12 12:37:13 -0400"
       }
@@ -110,18 +110,18 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://altosdelbosque.com.ar/contacto-y-ubicacion/"
+            "item": "https://mamababyfund.org/contact/"
         },{
           "@type": "ListItem",
           "position": 2,
           "name": "QUIZ4D",
-          "item": "https://altosdelbosque.com.ar/contacto-y-ubicacion/"
+          "item": "https://mamababyfund.org/contact/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026",
-          "item": "https://altosdelbosque.com.ar/contacto-y-ubicacion/"
+          "item": "https://mamababyfund.org/contact/"
         }]
       }
     </script>
@@ -242,7 +242,7 @@
     <script id="apple-pay-shop-capabilities"
       type="application/json">{"shopId":60844245227,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/60844245227","merchantName":"QUIZ4D","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"QUIZ4D","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
     <script id="shopify-features"
-      type="application/json">{"accessToken":"2f8cdde862c570bd77ee62355fb2d349","betas":["rich-media-storefront-analytics"],"domain":"https://altosdelbosque.com.ar/contacto-y-ubicacion/","predictiveSearch":true,"shopId":60844245227,"locale":"en"}</script>
+      type="application/json">{"accessToken":"2f8cdde862c570bd77ee62355fb2d349","betas":["rich-media-storefront-analytics"],"domain":"https://mamababyfund.org/contact/","predictiveSearch":true,"shopId":60844245227,"locale":"en"}</script>
     <script>var Shopify = Shopify || {};
       Shopify.shop = "e-seabra-foods.myshopify.com";
       Shopify.locale = "en";
@@ -442,7 +442,7 @@
           }
       });
       window.dataShopStape = {
-          shop: "https://altosdelbosque.com.ar/contacto-y-ubicacion/",
+          shop: "https://mamababyfund.org/contact/",
           shopId: "60844245227",
       }
     </script>
@@ -456,7 +456,7 @@
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 60844245227, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
     <script
-      id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 60844245227, storefrontBaseUrl: "https://altosdelbosque.com.ar/contacto-y-ubicacion/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "1078821099", "configuration": "{\"accountID\":\"60844245227\"}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "9ef2907c40020ce05d33cad6e8fafcb4", "type": "APP", "apiClientId": 10250649601, "privacyPurposes": [], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "461177067", "configuration": "{\"config\":\"{\\\"pixel_id\\\":\\\"G-QS7L1X354M\\\",\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/76TMCJ2LrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/R9TICKOLrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/C_nlCJqLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/2WWyCJSLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/sfghCJeLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/NWCuCKaLrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/YVT7CKCLrvgYEL3ar7EB\\\"]}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "160399595", "configuration": "{\"pixel_id\":\"430949955079879\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "ca16bc87fe92b6042fbaa3acc2fbdaa6", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "QUIZ4D", "paymentSettings": { "currencyCode": "USD" }, "myshopifyDomain": "e-seabra-foods.myshopify.com", "countryCode": "US", "storefrontUrl": "https:\/\/www.dailymewscharlotte.com\/boarding.html" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 35.0, "currencyCode": "USD" }, "product": { "title": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026", "vendor": "QUIZ4D", "id": "7695179448555", "untranslatedTitle": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026", "url": "\/products\/black-angus-choice-picanha-3lb-piece", "type": "Beef" }, "id": "42849557217515", "image": { "src": "\/\/seabrafoods.com\/cdn\/shop\/products\/black-angus-choice-picanha-3lb-piece-seabra-foods-online.jpg?v=1706325527" }, "sku": "33366699936969", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://seabrafoods.com/cdn", "ae1676cfwd2530674p4253c800m34e853cb", { "modern": "", "legacy": "" }, { "shopId": "60844245227", "storefrontBaseUrl": "https:\/\/www.dailymewscharlotte.com\/boarding.html", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "ae1676cfwd2530674p4253c800m34e853cb", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":35.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026\",\"vendor\":\"QUIZ4D\",\"id\":\"7695179448555\",\"untranslatedTitle\":\"Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026\",\"url\":\"\/products\/black-angus-choice-picanha-3lb-piece\",\"type\":\"Beef\"},\"id\":\"42849557217515\",\"image\":{\"src\":\"\/\/seabrafoods.com\/cdn\/shop\/products\/black-angus-choice-picanha-3lb-piece-seabra-foods-online.jpg?v=1706325527\"},\"sku\":\"33366699936969\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });</script>
+      id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 60844245227, storefrontBaseUrl: "https://mamababyfund.org/contact/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "1078821099", "configuration": "{\"accountID\":\"60844245227\"}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "9ef2907c40020ce05d33cad6e8fafcb4", "type": "APP", "apiClientId": 10250649601, "privacyPurposes": [], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "461177067", "configuration": "{\"config\":\"{\\\"pixel_id\\\":\\\"G-QS7L1X354M\\\",\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/76TMCJ2LrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/R9TICKOLrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/C_nlCJqLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/2WWyCJSLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/sfghCJeLrvgYEL3ar7EB\\\",\\\"MC-T4LRDWKJF5\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/NWCuCKaLrvgYEL3ar7EB\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-QS7L1X354M\\\",\\\"AW-371977533\\\/YVT7CKCLrvgYEL3ar7EB\\\"]}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "160399595", "configuration": "{\"pixel_id\":\"430949955079879\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "ca16bc87fe92b6042fbaa3acc2fbdaa6", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "dataSharingAdjustments": { "protectedCustomerApprovalScopes": ["read_customer_address", "read_customer_email", "read_customer_name", "read_customer_personal_data", "read_customer_phone"] } }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "QUIZ4D", "paymentSettings": { "currencyCode": "USD" }, "myshopifyDomain": "e-seabra-foods.myshopify.com", "countryCode": "US", "storefrontUrl": "https:\/\/www.dailymewscharlotte.com\/boarding.html" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 35.0, "currencyCode": "USD" }, "product": { "title": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026", "vendor": "QUIZ4D", "id": "7695179448555", "untranslatedTitle": "Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026", "url": "\/products\/black-angus-choice-picanha-3lb-piece", "type": "Beef" }, "id": "42849557217515", "image": { "src": "\/\/seabrafoods.com\/cdn\/shop\/products\/black-angus-choice-picanha-3lb-piece-seabra-foods-online.jpg?v=1706325527" }, "sku": "33366699936969", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://seabrafoods.com/cdn", "ae1676cfwd2530674p4253c800m34e853cb", { "modern": "", "legacy": "" }, { "shopId": "60844245227", "storefrontBaseUrl": "https:\/\/www.dailymewscharlotte.com\/boarding.html", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "ae1676cfwd2530674p4253c800m34e853cb", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":35.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026\",\"vendor\":\"QUIZ4D\",\"id\":\"7695179448555\",\"untranslatedTitle\":\"Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026\",\"url\":\"\/products\/black-angus-choice-picanha-3lb-piece\",\"type\":\"Beef\"},\"id\":\"42849557217515\",\"image\":{\"src\":\"\/\/seabrafoods.com\/cdn\/shop\/products\/black-angus-choice-picanha-3lb-piece-seabra-foods-online.jpg?v=1706325527\"},\"sku\":\"33366699936969\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });</script>
     <script>
       window.ShopifyAnalytics = window.ShopifyAnalytics || {};
       window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -13751,7 +13751,7 @@
                     }
                   </style>
                   <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization"><a
-                    href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" itemprop="url" class="site-header__logo-link">
+                    href="https://mamababyfund.org/contact/" itemprop="url" class="site-header__logo-link">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR0laL8WV89TLpOXnDEbMUJcAqowKhaAMWpCN7a_6zYHK0hu90Eb22XFmtRpgaDSSc8yG93Cjfu4a7wxA20Lt4AMWhjlDbtkC2_uOGjNGAKWSphMJL3k3C3Vadk47iQGwsEN4UwKFD9Xav23CZly-U8PsMJTf3W0friUHoezcvQcvka8xwaf7BtozBvWwr/s430/logoquiz4d1.png"
                       srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR0laL8WV89TLpOXnDEbMUJcAqowKhaAMWpCN7a_6zYHK0hu90Eb22XFmtRpgaDSSc8yG93Cjfu4a7wxA20Lt4AMWhjlDbtkC2_uOGjNGAKWSphMJL3k3C3Vadk47iQGwsEN4UwKFD9Xav23CZly-U8PsMJTf3W0friUHoezcvQcvka8xwaf7BtozBvWwr/s430/logoquiz4d1.png 1x, //https://photoku.io/images/2025/12/22/quiz4dtes.gi?v=1718636087 2x"
                       alt="QUIZ4D" itemprop="logo">
@@ -13843,32 +13843,32 @@
                 <nav class="nav-bar d-none d-lg-block" role="navigation">
                   <ul class="site-nav">
                     <li class="site-nav__item site-nav__item-normal ">
-                      <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="site-nav__link dropdown-toggle">
+                      <a href="https://mamababyfund.org/contact/" class="site-nav__link dropdown-toggle">
                       <span class="site-nav__title">QUIZ4D</span></a>
                       <div class="site-nav__dropdown meganav">
                         <ul class="meganav__nav">
                           <div class="meganav__list">
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               SLOT APK
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               SITUS SLOT GACOR
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               BONUS NEW MEMBER 100 PERSE/N
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               PULSA TANPA POTONGAN
                               </a>
                             </li>
@@ -13877,32 +13877,32 @@
                       </div>
                     </li>
                     <li class="site-nav__item site-nav__item-normal ">
-                      <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="site-nav__link dropdown-toggle">
+                      <a href="https://mamababyfund.org/contact/" class="site-nav__link dropdown-toggle">
                       <span class="site-nav__title">Slot Gacor</span></a>
                       <div class="site-nav__dropdown meganav">
                         <ul class="meganav__nav">
                           <div class="meganav__list">
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Situs Slot Gacor
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Link Slot Apk
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Slot Apk Quiz4d
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Link Slot Terpercaya
                               </a>
                             </li>
@@ -13911,20 +13911,20 @@
                       </div>
                     </li>
                     <li class="site-nav__item site-nav__item-normal ">
-                      <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="site-nav__link dropdown-toggle">
+                      <a href="https://mamababyfund.org/contact/" class="site-nav__link dropdown-toggle">
                       <span class="site-nav__title">Live Casino</span></a>
                       <div class="site-nav__dropdown meganav">
                         <ul class="meganav__nav">
                           <div class="meganav__list">
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Pragmatic Play
                               </a>
                             </li>
                             <li
                               class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                              <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="meganav__link ">
+                              <a href="https://mamababyfund.org/contact/" class="meganav__link ">
                               Spaceman
                               </a>
                             </li>
@@ -13933,11 +13933,11 @@
                       </div>
                     </li>
                     <li class="site-nav__item">
-                      <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="site-nav__link">
+                      <a href="https://mamababyfund.org/contact/" class="site-nav__link">
                       <span class="site-nav__title">Customer Service 24 Jam ON</span></a>
                     </li>
                     <li class="site-nav__item site-nav__item-normal ">
-                      <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" class="site-nav__link dropdown-toggle">
+                      <a href="https://mamababyfund.org/contact/" class="site-nav__link dropdown-toggle">
                       <span class="site-nav__title">Layanan Tersedia</span></a>
                       <div class="site-nav__dropdown meganav">
                         <ul class="meganav__nav">
@@ -13994,7 +13994,7 @@
         <div class="container-fluid">
         </div>
         <div class="container-fluid">
-          <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" title="QUIZ4D">QUIZ4D</a>
+          <a href="https://mamababyfund.org/contact/" title="QUIZ4D">QUIZ4D</a>
           <span aria-hidden="true">
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
               xmlns="http://www.w3.org/2000/svg">
@@ -14003,7 +14003,7 @@
                 fill="#6C757D" />
             </svg>
           </span>
-          <a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/" title="QUIZ4D LOGIN">QUIZ4D LOGIN</a>
+          <a href="https://mamababyfund.org/contact/" title="QUIZ4D LOGIN">QUIZ4D LOGIN</a>
           <span aria-hidden="true">
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
               xmlns="http://www.w3.org/2000/svg">
@@ -14023,7 +14023,7 @@
             data-section-type="product" data-enable-history-state="true" data-ajax="true" data-stock="true"
             data-handle="black-angus-choice-picanha-3lb-piece">
             <meta itemprop="name" content="Quiz4D: Link Situs Slot APK Resmi Link Download Cepat & Aman Mudah Maxwin Terbaru 2026">
-            <meta itemprop="url" content="https://altosdelbosque.com.ar/contacto-y-ubicacion/">
+            <meta itemprop="url" content="https://mamababyfund.org/contact/">
             <meta itemprop="image"
               content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjemZUKPeSGXry1XBV7-GVjrxIzX3zdoekBkEoynDkFMSWoHcL0PqGgMYH8fzzqi3XgO5ZY7XT0FWHL-ve84K5eowbgR1fleH1QIddDz-v_bXKypZp0yghg048fGj0HXMxLqXTai0ideocsNfTO-ig8SfiEcOXAuz5aO3UoBzA9gyLZc2fKUlvOgSwPytzX/s1000/POSEIDONQUIZ1.png">
             <meta itemprop="brand" content="QUIZ4D">
@@ -14963,14 +14963,14 @@
                 <div class="site-footer__section">
                   <h4 class="h4 site-footer__section-title">Temukan Yang Anda Cari</h4>
                   <ul class="site-footer__list">
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">QUIZ4D</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">SLOT GACOR</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">SLOT ONLINE</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">SLOT MAXWIN</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">APK SLOT QUIZ</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">DOWNLOAD APK QUIZ</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">BONUS NEW MEMBER 100%</a></li>
-                    <li class="site-footer__list-item"><a href="https://altosdelbosque.com.ar/contacto-y-ubicacion/">PULSA TANPA POTONGAN</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">QUIZ4D</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">SLOT GACOR</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">SLOT ONLINE</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">SLOT MAXWIN</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">APK SLOT QUIZ</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">DOWNLOAD APK QUIZ</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">BONUS NEW MEMBER 100%</a></li>
+                    <li class="site-footer__list-item"><a href="https://mamababyfund.org/contact/">PULSA TANPA POTONGAN</a></li>
                   </ul>
                 </div>
               </div>
@@ -16034,7 +16034,7 @@
     </style>
     <div id="shopify-block-AQjhsaFFDeVJBdGc0M__4912811683585195618" class="shopify-block shopify-app-block">
       <script
-        defer>let ppData = { "tabs": "{\"status\":true,\"must_click_to_open\":true,\"tab_title\":\"Special Offer\",\"tab_text_color\":\"#FFFFFF\",\"background_color\":\"#333333\",\"tab_position\":\"bottom_center\"}", "popups": [{ "id": 9604, "shop_id": 18208, "title": "Important Notice: Change in Operating Hours!", "start_time": "2024-12-18 19:16:00", "end_time": "2024-12-25 15:00:00", "show_on_mobile": 1, "priority": 1, "who_can_see_popup": { "type": "all", "customer_tags": [] }, "where_popup_show": { "type_page": "all_page", "specific_pages": [], "specific_urls": [], "include_specific_urls": true }, "when_popup_show": { "type": "open_page", "delay_before_show": 0, "time_show_again": 5, "cart_condition": { "status": false, "min_quantity_to_show": 0, "min_order_total": 0, "product_id": [] } }, "when_popup_close": { "type": "handle_close", "time_to_close": 30 }, "popup_design": { "id": 2, "template_name": "Discount order 2", "code_html": "<div id=\"squirai-popup-temp\"><style>@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Roboto:wght@100&display=swap);#squirai-popup-inside{height:100%;width:100%;background:#fff;display:flex;flex-direction:column}#squirai-popup-container td{position:relative}#squirai-close-button{position:absolute;right:-5px;top:-5px;color:#fff;background-color:#000;border-radius:50%;width:20px;min-width:auto!important;max-width:unset!important;height:20px;min-height:auto!important;max-height:unset!important;padding:0;cursor:pointer;border:none;outline:0;letter-spacing:0;text-align:center!important;font-size:10px}#squirai-rect-1{display:flex;flex-direction:column;align-items:center;justify-content:center;height:40%;background:#00a85b;padding:15px}#squirai-cd-info{font-family:Inter;font-weight:600;font-size:22px;color:#fff;padding-bottom:16px}#squirai-container-cd{width:100%}.squirai-Countdown{padding-top:10px;text-align:center!important}.squirai-Countdown span{color:#fff;font-family:Inter;font-size:40px;font-weight:600}.countdown-row{clear:both;width:100%;padding:0 2px;text-align:center}.countdown-show1 .countdown-section{width:98%}.countdown-show2 .countdown-section{width:48%}.countdown-show3 .countdown-section{width:32.5%}.countdown-show4 .countdown-section{width:24.5%}.countdown-show5 .countdown-section{width:19.5%}.countdown-show6 .countdown-section{width:16.25%}.countdown-show7 .countdown-section{width:14%}.countdown-section{display:block;float:left;font-size:12px;text-align:center}.countdown-row{clear:both;width:100%;padding:0 2px;text-align:center}.countdown-show1 .countdown-section{width:98%}.countdown-show2 .countdown-section{width:48%}.countdown-show3 .countdown-section{width:32.5%}.countdown-show4 .countdown-section{width:24.5%}.countdown-show5 .countdown-section{width:19.5%}.countdown-show6 .countdown-section{width:16.25%}.countdown-show7 .countdown-section{width:14%}.countdown-section{display:block;float:left;font-size:12px;text-align:center;background:url(//cdn.secomapp.com/promotionpopup/cdn/popuptemplate/counterblue/star-line.png) no-repeat scroll 100% 5px}.countdown-section:last-child{background:0 0}.countdown-period{color:#fff!important;display:block;font-family:Inter;font-size:14px!important;font-weight:400!important;margin-top:12px}#defaultCountdown{display:inline-block;height:51px;line-height:25px;margin-right:0;position:relative;top:0;width:80%!important}#squirai-rect-2{height:60%;display:flex;flex-direction:column;padding:30px;gap:15px}#squirai-offer{font-family:Inter;font-style:normal;font-weight:600;font-size:35px;line-height:100%;display:flex;justify-content:center}#squirai-promo-detail{display:flex;justify-content:center;font-family:Inter;font-style:normal;font-weight:300;font-size:14px;line-height:130%}#squirai-button{margin-top:10px;display:flex;justify-content:center;align-items:center;padding:10px 20px;background:#00a85b;text-decoration:none;border-radius:8px}.squirai-button-container{display:flex;align-items:center;flex-direction:column-reverse;margin-top:16px}#squirai-button-text{font-family:Inter;font-style:normal;font-weight:700;font-size:22px;line-height:110%;color:#fff}@media (max-width:599px){#squirai-popup-container{margin:auto;width:300px!important;border-radius:5px;height:auto!important}#squirai-cd-info{font-size:17px}#squirai-offer{font-size:25px}.squirai-Countdown span{font-size:23px}.countdown-period{font-size:10px!important}#defaultCountdown{width:275px!important}.squirai-Countdown{padding-bottom:14px!important;padding-top:12px!important}}</style><table id=\"squirai-popup-container\" style=\"width: 700px; height: 410px;\" data-mce-style=\"width: 700px; height: 410px;\" class=\"mce-item-table\"><tbody><tr><td><button id=\"squirai-close-button\">✕</button><div id=\"squirai-popup-inside\"><div id=\"squirai-rect-1\"><div id=\"squirai-cd-info\"><strong>Notice:</strong></div><div class=\"squirai-Countdown\" id=\"squirai-container-cd\" style=\"display: block;\" data-mce-style=\"display: block;\"><span id=\"defaultCountdown\" class=\"is-countdown\"><span class=\"countdown-row countdown-show3\" id=\"countdown-col\"><span class=\"countdown-section\" id=\"days-section\" style=\"display: none;\" data-mce-style=\"display: none;\"><span class=\"countdown-amount\" id=\"days\">0</span><span class=\"countdown-period\">Days</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"hours\">0</span><span class=\"countdown-period\">Hours</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"minutes\">15</span><span class=\"countdown-period\">Minutes</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"seconds\">0</span><span class=\"countdown-period\">Seconds</span></span></span></span></div></div><div id=\"squirai-rect-2\"><div id=\"squirai-offer\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Orders placed between </div><div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">December <strong>23-31</strong> may experience <strong>delays</strong> due to the holidays. </div><div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Thank you for understanding!</div><div class=\"squirai-button-container\"><a id=\"squirai-button\" href=\"https://seabrafoods.com/\" target=\"\" data-mce-href=\"#\"><span id=\"squirai-button-text\">Shop now</span></a></div></div></div></td></tr></tbody></table></div>", "data_design": { "end_by_date": "2024-12-25 12:00:00", "start_by_date": "2024-12-18 16:16:00", "top_background_color": "#00a85b", "button_hover_color": "#00a85b", "button_color": "#00a85b", "show_countdown": true, "button_text_color": "#ffffff", "type_countdown": "time_setting", "time_countdown": 15, "shop_now_url": "https://altosdelbosque.com.ar/contacto-y-ubicacion/", "open_new_window": false, "discount_code": null } }, "status": 1, "created_at": "2024-12-18T19:34:21.000000Z", "updated_at": "2024-12-18T20:35:35.000000Z" }], "hidden_brandmark": false }</script>
+        defer>let ppData = { "tabs": "{\"status\":true,\"must_click_to_open\":true,\"tab_title\":\"Special Offer\",\"tab_text_color\":\"#FFFFFF\",\"background_color\":\"#333333\",\"tab_position\":\"bottom_center\"}", "popups": [{ "id": 9604, "shop_id": 18208, "title": "Important Notice: Change in Operating Hours!", "start_time": "2024-12-18 19:16:00", "end_time": "2024-12-25 15:00:00", "show_on_mobile": 1, "priority": 1, "who_can_see_popup": { "type": "all", "customer_tags": [] }, "where_popup_show": { "type_page": "all_page", "specific_pages": [], "specific_urls": [], "include_specific_urls": true }, "when_popup_show": { "type": "open_page", "delay_before_show": 0, "time_show_again": 5, "cart_condition": { "status": false, "min_quantity_to_show": 0, "min_order_total": 0, "product_id": [] } }, "when_popup_close": { "type": "handle_close", "time_to_close": 30 }, "popup_design": { "id": 2, "template_name": "Discount order 2", "code_html": "<div id=\"squirai-popup-temp\"><style>@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Roboto:wght@100&display=swap);#squirai-popup-inside{height:100%;width:100%;background:#fff;display:flex;flex-direction:column}#squirai-popup-container td{position:relative}#squirai-close-button{position:absolute;right:-5px;top:-5px;color:#fff;background-color:#000;border-radius:50%;width:20px;min-width:auto!important;max-width:unset!important;height:20px;min-height:auto!important;max-height:unset!important;padding:0;cursor:pointer;border:none;outline:0;letter-spacing:0;text-align:center!important;font-size:10px}#squirai-rect-1{display:flex;flex-direction:column;align-items:center;justify-content:center;height:40%;background:#00a85b;padding:15px}#squirai-cd-info{font-family:Inter;font-weight:600;font-size:22px;color:#fff;padding-bottom:16px}#squirai-container-cd{width:100%}.squirai-Countdown{padding-top:10px;text-align:center!important}.squirai-Countdown span{color:#fff;font-family:Inter;font-size:40px;font-weight:600}.countdown-row{clear:both;width:100%;padding:0 2px;text-align:center}.countdown-show1 .countdown-section{width:98%}.countdown-show2 .countdown-section{width:48%}.countdown-show3 .countdown-section{width:32.5%}.countdown-show4 .countdown-section{width:24.5%}.countdown-show5 .countdown-section{width:19.5%}.countdown-show6 .countdown-section{width:16.25%}.countdown-show7 .countdown-section{width:14%}.countdown-section{display:block;float:left;font-size:12px;text-align:center}.countdown-row{clear:both;width:100%;padding:0 2px;text-align:center}.countdown-show1 .countdown-section{width:98%}.countdown-show2 .countdown-section{width:48%}.countdown-show3 .countdown-section{width:32.5%}.countdown-show4 .countdown-section{width:24.5%}.countdown-show5 .countdown-section{width:19.5%}.countdown-show6 .countdown-section{width:16.25%}.countdown-show7 .countdown-section{width:14%}.countdown-section{display:block;float:left;font-size:12px;text-align:center;background:url(//cdn.secomapp.com/promotionpopup/cdn/popuptemplate/counterblue/star-line.png) no-repeat scroll 100% 5px}.countdown-section:last-child{background:0 0}.countdown-period{color:#fff!important;display:block;font-family:Inter;font-size:14px!important;font-weight:400!important;margin-top:12px}#defaultCountdown{display:inline-block;height:51px;line-height:25px;margin-right:0;position:relative;top:0;width:80%!important}#squirai-rect-2{height:60%;display:flex;flex-direction:column;padding:30px;gap:15px}#squirai-offer{font-family:Inter;font-style:normal;font-weight:600;font-size:35px;line-height:100%;display:flex;justify-content:center}#squirai-promo-detail{display:flex;justify-content:center;font-family:Inter;font-style:normal;font-weight:300;font-size:14px;line-height:130%}#squirai-button{margin-top:10px;display:flex;justify-content:center;align-items:center;padding:10px 20px;background:#00a85b;text-decoration:none;border-radius:8px}.squirai-button-container{display:flex;align-items:center;flex-direction:column-reverse;margin-top:16px}#squirai-button-text{font-family:Inter;font-style:normal;font-weight:700;font-size:22px;line-height:110%;color:#fff}@media (max-width:599px){#squirai-popup-container{margin:auto;width:300px!important;border-radius:5px;height:auto!important}#squirai-cd-info{font-size:17px}#squirai-offer{font-size:25px}.squirai-Countdown span{font-size:23px}.countdown-period{font-size:10px!important}#defaultCountdown{width:275px!important}.squirai-Countdown{padding-bottom:14px!important;padding-top:12px!important}}</style><table id=\"squirai-popup-container\" style=\"width: 700px; height: 410px;\" data-mce-style=\"width: 700px; height: 410px;\" class=\"mce-item-table\"><tbody><tr><td><button id=\"squirai-close-button\">✕</button><div id=\"squirai-popup-inside\"><div id=\"squirai-rect-1\"><div id=\"squirai-cd-info\"><strong>Notice:</strong></div><div class=\"squirai-Countdown\" id=\"squirai-container-cd\" style=\"display: block;\" data-mce-style=\"display: block;\"><span id=\"defaultCountdown\" class=\"is-countdown\"><span class=\"countdown-row countdown-show3\" id=\"countdown-col\"><span class=\"countdown-section\" id=\"days-section\" style=\"display: none;\" data-mce-style=\"display: none;\"><span class=\"countdown-amount\" id=\"days\">0</span><span class=\"countdown-period\">Days</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"hours\">0</span><span class=\"countdown-period\">Hours</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"minutes\">15</span><span class=\"countdown-period\">Minutes</span></span><span class=\"countdown-section\"><span class=\"countdown-amount\" id=\"seconds\">0</span><span class=\"countdown-period\">Seconds</span></span></span></span></div></div><div id=\"squirai-rect-2\"><div id=\"squirai-offer\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Orders placed between </div><div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">December <strong>23-31</strong> may experience <strong>delays</strong> due to the holidays. </div><div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Thank you for understanding!</div><div class=\"squirai-button-container\"><a id=\"squirai-button\" href=\"https://seabrafoods.com/\" target=\"\" data-mce-href=\"#\"><span id=\"squirai-button-text\">Shop now</span></a></div></div></div></td></tr></tbody></table></div>", "data_design": { "end_by_date": "2024-12-25 12:00:00", "start_by_date": "2024-12-18 16:16:00", "top_background_color": "#00a85b", "button_hover_color": "#00a85b", "button_color": "#00a85b", "show_countdown": true, "button_text_color": "#ffffff", "type_countdown": "time_setting", "time_countdown": 15, "shop_now_url": "https://mamababyfund.org/contact/", "open_new_window": false, "discount_code": null } }, "status": 1, "created_at": "2024-12-18T19:34:21.000000Z", "updated_at": "2024-12-18T20:35:35.000000Z" }], "hidden_brandmark": false }</script>
       <script type="text/javascript" defer>window.SQUIRAI = { customer_tags: { tags: null } };</script>
       <div id="sca-p-popup-main-popup-container" class="sca-p-popup-main-container sca-modal-pu"
         data-animation="slideInOutTop">
