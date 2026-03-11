@@ -484,17 +484,17 @@
         />
         <link
             rel="canonical"
-            href="https://munisantarosa.gob.pe/directorio/"
+            href="https://munisantarosa.gob.pe/resena-historica/"
         />
         <link
             rel="alternate"
             hreflang="en-US"
-            href="https://munisantarosa.gob.pe/directorio/"
+            href="https://munisantarosa.gob.pe/resena-historica/"
         />
         <link
             rel="alternate"
             hreflang="x-default"
-            href="https://munisantarosa.gob.pe/directorio/"
+            href="https://munisantarosa.gob.pe/resena-historica/"
         />
         <link
             rel="alternate"
@@ -543,7 +543,7 @@
                 "@context": "https://schema.org",
                 "@type": "WebSite",
                 "name": "LAWU88SLOT",
-                "url": "https://munisantarosa.gob.pe/directorio/"
+                "url": "https://munisantarosa.gob.pe/resena-historica/"
             }
         </script>
         <script type="application/ld+json">
@@ -593,7 +593,7 @@
                 0,
                 {
                     children:
-                        '\nwindow.__transactionID__ = "ZLFYlanDSeGRKd5ufCou4g==";\nwindow.__anchorPageViewID__ = window.__anchorPageViewID__ || "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__pageViewID__ = "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__hasSession__ = true;\nwindow.__FETCH_DATA__ = {"application":{"name":"@wayfair/sf-ui-core-funnel","version":"c6bf4749a46287cc8cfa778fd03ce24b338b9324"},"storeURL":"https://munisantarosa.gob.pe/directorio/","transactionID":"ZLFYlanDSeGRKd5ufCou4g==","pageName":"product-details","isBot":false,"featureToggles":{"enableAuthTokenRefresh":true,"enableDebugLogs":true,"enableErrorLogs":true,"enableFatalLogs":true,"enableInfoLogs":false,"enableWarnLogs":true},"sharedHeaders":{"wf-pageview-id":"MzRkMDcwMjktMzdhNC00Nw==","wf-locale":"en-US","wf-store-id":"49","wf-anchorpageview-id":"MzRkMDcwMjktMzdhNC00Nw==","true-client-ip":"158.140.166.66","wf-b2b-experience":"false","wf-b2b-aisle":"null","wf-page-context":"{\\"pageType\\":\\"Product-Detail\\",\\"pageTypeId\\":5,\\"pageKey\\":\\"Product-Detail\\"}"}};',
+                        '\nwindow.__transactionID__ = "ZLFYlanDSeGRKd5ufCou4g==";\nwindow.__anchorPageViewID__ = window.__anchorPageViewID__ || "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__pageViewID__ = "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__hasSession__ = true;\nwindow.__FETCH_DATA__ = {"application":{"name":"@wayfair/sf-ui-core-funnel","version":"c6bf4749a46287cc8cfa778fd03ce24b338b9324"},"storeURL":"https://munisantarosa.gob.pe/resena-historica/","transactionID":"ZLFYlanDSeGRKd5ufCou4g==","pageName":"product-details","isBot":false,"featureToggles":{"enableAuthTokenRefresh":true,"enableDebugLogs":true,"enableErrorLogs":true,"enableFatalLogs":true,"enableInfoLogs":false,"enableWarnLogs":true},"sharedHeaders":{"wf-pageview-id":"MzRkMDcwMjktMzdhNC00Nw==","wf-locale":"en-US","wf-store-id":"49","wf-anchorpageview-id":"MzRkMDcwMjktMzdhNC00Nw==","true-client-ip":"158.140.166.66","wf-b2b-experience":"false","wf-b2b-aisle":"null","wf-page-context":"{\\"pageType\\":\\"Product-Detail\\",\\"pageTypeId\\":5,\\"pageKey\\":\\"Product-Detail\\"}"}};',
                     id: "fetch-patch-data",
                 },
             ]);
@@ -729,7 +729,7 @@
                                                 >
                                                     <a
                                                         title="Wayfair"
-                                                        href="https://munisantarosa.gob.pe/directorio/"
+                                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                                         data-enzyme-id="StoreLogoLink"
                                                         class="_2srr0x1"
                                                         ><svg
@@ -932,7 +932,7 @@
                                                 >
                                                     <a
                                                         title="Wayfair"
-                                                        href="https://munisantarosa.gob.pe/directorio/"
+                                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                                         data-enzyme-id="StoreLogoLink"
                                                         class="_2srr0x1"
                                                         ><svg
@@ -1380,7 +1380,7 @@
                                     aria-hidden="true"
                                     class="mtsvz50"
                                     data-hb-id="VisuallyHidden"
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1"
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1"
                                         >LAWU88SLOT</a
                                     ><a
                                         href="https://www.wayfair.com/furniture/cat/furniture-sale-c541538.html"
@@ -1507,7 +1507,7 @@
                                         tabindex="-1"
                                         >Entry &amp; Mudroom LAWU88SLOT Sale</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Kitchen &amp; Dining LAWU88SLOT</a
                                     ><a
@@ -1515,7 +1515,7 @@
                                         tabindex="-1"
                                         >Dining Tables &amp; Seating</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Sideboards &amp; Buffets</a
                                     ><a
@@ -1566,9 +1566,9 @@
                                         href="https://www.wayfair.com/furniture/cat/game-room-furniture-sale-c1851588.html"
                                         tabindex="-1"
                                         >Game Room LAWU88SLOT Sale</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Pet</a
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Pet</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/wayfair-verified:-furniture-se79201.html?fromNEM=true&amp;unifiedeventid=467463"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/wayfair-verified:-furniture-se79201.html?fromNEM=true&amp;unifiedeventid=467463"
                                         tabindex="-1"
                                         >Wayfair Verified™ LAWU88SLOT</a
                                     ><a
@@ -1576,26 +1576,26 @@
                                         tabindex="-1"
                                         >Kelly Clarkson Home</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-furniture-se71000.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-furniture-se71000.html"
                                         tabindex="-1"
                                         >Top-Rated LAWU88SLOT</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/fast-delivery-furniture-se71003.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/fast-delivery-furniture-se71003.html"
                                         tabindex="-1"
                                         >Fast Delivery LAWU88SLOT</a
                                     ><a href="https://www.wayfair.com/m/living-room" tabindex="-1"
                                         >Hang-Out Must Haves</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//modern-dining-tables-&amp;-sets~e303436.html?fromNEM=true&amp;unifiedeventid=456140"
+                                        href="https://munisantarosa.gob.pe/resena-historica//modern-dining-tables-&amp;-sets~e303436.html?fromNEM=true&amp;unifiedeventid=456140"
                                         tabindex="-1"
                                         >Modern Dining Sets</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-motion-upholstery-se77094.html?fromNEM=true&amp;unifiedeventid=453387"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-motion-upholstery-se77094.html?fromNEM=true&amp;unifiedeventid=453387"
                                         tabindex="-1"
                                         >Motion LAWU88SLOT</a
                                     ><a href="https://www.wayfair.com/design-services/?src=furn" tabindex="-1"
                                         >Design Services</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1"
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1"
                                         >Outdoor</a
                                     ><a
                                         href="https://www.wayfair.com/outdoor/cat/outdoor-sale-c541543.html"
@@ -1774,7 +1774,7 @@
                                         tabindex="-1"
                                         >Wayfair Verified™ Outdoor</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//outdoor-decor-favorites~e314756.html?fromNEM=true&amp;unifiedeventid=463109&amp;curpage=1"
+                                        href="https://munisantarosa.gob.pe/resena-historica//outdoor-decor-favorites~e314756.html?fromNEM=true&amp;unifiedeventid=463109&amp;curpage=1"
                                         tabindex="-1"
                                         >Outdoor Decor Favorites</a
                                     ><a href="https://www.wayfair.com/sunbrella~b2.html" tabindex="-1">Sunbrella</a
@@ -1789,18 +1789,18 @@
                                         tabindex="-1"
                                         >Backyard Discovery</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//buy-a-grill,-enjoy-free-assembly~e249766.html?fromNEM=true&amp;unifiedeventid=394929"
+                                        href="https://munisantarosa.gob.pe/resena-historica//buy-a-grill,-enjoy-free-assembly~e249766.html?fromNEM=true&amp;unifiedeventid=394929"
                                         tabindex="-1"
                                         >Free Assembly Grills</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/pergolas-and-gazebos-from-usd150-se73497.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/pergolas-and-gazebos-from-usd150-se73497.html"
                                         tabindex="-1"
                                         >Pergolas &amp; Gazebos</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/outdoor-finds-for-fall-se79412.html?fromNEM=true&amp;unifiedeventid=469108"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/outdoor-finds-for-fall-se79412.html?fromNEM=true&amp;unifiedeventid=469108"
                                         tabindex="-1"
                                         >Outdoor Finds for Fall</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1"
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1"
                                         >Bedding &amp; Bath</a
                                     ><a
                                         href="https://www.wayfair.com/bed-bath/cat/bed-bath-sale-c541542.html"
@@ -1971,7 +1971,7 @@
                                         tabindex="-1"
                                         >Wayfair Verified™ Bedroom</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//free-full-service-delivery-mattresses~e335730.html?fromNEM=true&amp;unifiedeventid=475500"
+                                        href="https://munisantarosa.gob.pe/resena-historica//free-full-service-delivery-mattresses~e335730.html?fromNEM=true&amp;unifiedeventid=475500"
                                         tabindex="-1"
                                         >Free Full Service Delivery</a
                                     ><a href="https://www.wayfair.com/brand/bnd/refine-b92434.html" tabindex="-1"
@@ -1992,7 +1992,7 @@
                                         tabindex="-1"
                                         >Our Top 10 Bed &amp; Bath Picks</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//extra-cozy-bedding~e333154.html?fromNEM=true&amp;unifiedeventid=473785"
+                                        href="https://munisantarosa.gob.pe/resena-historica//extra-cozy-bedding~e333154.html?fromNEM=true&amp;unifiedeventid=473785"
                                         tabindex="-1"
                                         >Extra Cozy Bedding</a
                                     ><a
@@ -2000,13 +2000,13 @@
                                         tabindex="-1"
                                         >Guest Bath Must Haves</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//heated-smart-bedding~e337884.html?fromNEM=true&amp;unifiedeventid=476754&amp;curpage=1"
+                                        href="https://munisantarosa.gob.pe/resena-historica//heated-smart-bedding~e337884.html?fromNEM=true&amp;unifiedeventid=476754&amp;curpage=1"
                                         tabindex="-1"
                                         >Heated Bedding</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Rugs</a
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Rugs</a
                                     ><a href="https://www.wayfair.com/rugs/cat/rugs-sale-c1851636.html" tabindex="-1"
                                         >Rugs Sale</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Rugs</a
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Rugs</a
                                     ><a href="https://www.wayfair.com/rugs/sb0/area-rugs-c215386.html" tabindex="-1"
                                         >Area Rugs</a
                                     ><a href="https://www.wayfair.com/rugs/sb0/outdoor-rugs-c478542.html" tabindex="-1"
@@ -2066,11 +2066,11 @@
                                         tabindex="-1"
                                         >Wayfair Verified™ Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-area-rugs-se71005.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-area-rugs-se71005.html"
                                         tabindex="-1"
                                         >Top-Rated Area Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/area-rugs-se70372.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/area-rugs-se70372.html"
                                         tabindex="-1"
                                         >Quick Ship Faves</a
                                     ><a
@@ -2090,23 +2090,23 @@
                                         tabindex="-1"
                                         >Galey Alix x Livabliss</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/machine-washable-rugs-se70691.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/machine-washable-rugs-se70691.html"
                                         tabindex="-1"
                                         >Machine Washable Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-jute-and-sisal-area-rugs-se56886.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-jute-and-sisal-area-rugs-se56886.html"
                                         tabindex="-1"
                                         >Jute &amp; Sisal Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//checkered-&amp;-striped-rugs~e303394.html?fromNEM=true&amp;unifiedeventid=456114"
+                                        href="https://munisantarosa.gob.pe/resena-historica//checkered-&amp;-striped-rugs~e303394.html?fromNEM=true&amp;unifiedeventid=456114"
                                         tabindex="-1"
                                         >Check &amp; Striped Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/high-pile-rugs-se62730.html?fromNEM=true&amp;unifiedeventid=387486"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/high-pile-rugs-se62730.html?fromNEM=true&amp;unifiedeventid=387486"
                                         tabindex="-1"
                                         >High-Pile Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Decor &amp; Pillows</a
                                     ><a
@@ -2292,15 +2292,15 @@
                                         tabindex="-1"
                                         >Wayfair Verified™ Décor</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/quick-ship-mirrors-and-decor-se70388.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/quick-ship-mirrors-and-decor-se70388.html"
                                         tabindex="-1"
                                         >Quick-Ship Mirrors &amp; Decor</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-decorative-objects-se65971.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-decorative-objects-se65971.html"
                                         tabindex="-1"
                                         >Top-Rated Decorative Objects</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//new-arrivals:-decor~e309382.html?fromNEM=true&amp;unifiedeventid=460029"
+                                        href="https://munisantarosa.gob.pe/resena-historica//new-arrivals:-decor~e309382.html?fromNEM=true&amp;unifiedeventid=460029"
                                         tabindex="-1"
                                         >Fresh Finds</a
                                     ><a
@@ -2316,16 +2316,16 @@
                                         tabindex="-1"
                                         >Seasonal Pillows &amp; Throws</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//indoor-christmas-decor~e331550.html?fromNEM=true&amp;unifiedeventid=472761"
+                                        href="https://munisantarosa.gob.pe/resena-historica//indoor-christmas-decor~e331550.html?fromNEM=true&amp;unifiedeventid=472761"
                                         tabindex="-1"
                                         >Christmas Decor</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/small-decor,-major-style-se79639.html?fromNEM=true&amp;unifiedeventid=470765"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/small-decor,-major-style-se79639.html?fromNEM=true&amp;unifiedeventid=470765"
                                         tabindex="-1"
                                         >Small Decor, Major Style</a
                                     ><a href="https://www.wayfair.com/design-services/?src=decpill" tabindex="-1"
                                         >Design Services</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1"
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1"
                                         >Lighting</a
                                     ><a
                                         href="https://www.wayfair.com/lighting/cat/lighting-sale-c553229.html"
@@ -2502,15 +2502,15 @@
                                         tabindex="-1"
                                         >Wayfair Verified™ Lighting</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/outdoor-lighting-by-mercury-row-se67984.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/outdoor-lighting-by-mercury-row-se67984.html"
                                         tabindex="-1"
                                         >Outdoor Lighting by Mercury Row</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/top-rated-lighting-se54279.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/top-rated-lighting-se54279.html"
                                         tabindex="-1"
                                         >Top-Rated Lighting</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/quick-ship-table-lamps-se37012.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/quick-ship-table-lamps-se37012.html"
                                         tabindex="-1"
                                         >Quick Ship Table Lamps</a
                                     ><a
@@ -2524,19 +2524,19 @@
                                         tabindex="-1"
                                         >Lisa McDennon By Hinkley</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/best-selling-vanity-lighting-se19069.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/best-selling-vanity-lighting-se19069.html"
                                         tabindex="-1"
                                         >Guest Bathroom Refresh: Lighting</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//shop-the-trend:-alabaster-lighting~e318204.html?fromNEM=true&amp;unifiedeventid=465112&amp;curpage=3"
+                                        href="https://munisantarosa.gob.pe/resena-historica//shop-the-trend:-alabaster-lighting~e318204.html?fromNEM=true&amp;unifiedeventid=465112&amp;curpage=3"
                                         tabindex="-1"
                                         >Alabaster Lighting</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//top-string-lights~e331582.html?fromNEM=true&amp;unifiedeventid=472785"
+                                        href="https://munisantarosa.gob.pe/resena-historica//top-string-lights~e331582.html?fromNEM=true&amp;unifiedeventid=472785"
                                         tabindex="-1"
                                         >Holiday String Lights</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Organization</a
                                     ><a
@@ -2785,11 +2785,11 @@
                                         >Brabantia</a
                                     ><a href="https://www.wayfair.com/m/storage" tabindex="-1">Organize Every Space</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/must-have-closet-storage-se77251.html?fromNEM=true&amp;unifiedeventid=454994"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/must-have-closet-storage-se77251.html?fromNEM=true&amp;unifiedeventid=454994"
                                         tabindex="-1"
                                         >Closet Organization Essentials</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/underbed-storage-from-$5-se78352.html?fromNEM=true&amp;unifiedeventid=460068"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/underbed-storage-from-$5-se78352.html?fromNEM=true&amp;unifiedeventid=460068"
                                         tabindex="-1"
                                         >Under-bed Storage</a
                                     ><a
@@ -2797,7 +2797,7 @@
                                         tabindex="-1"
                                         >Buying Guides</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Kitchen</a
                                     ><a
@@ -2837,7 +2837,7 @@
                                         tabindex="-1"
                                         >Tableware &amp; Drinkware Sale</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Kitchen &amp; Dining LAWU88SLOT</a
                                     ><a
@@ -2975,22 +2975,22 @@
                                     ><a href="https://www.wayfair.com/brand/bnd/henckels-b40673.html" tabindex="-1"
                                         >HENCKELS</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//cocktails-in-style~e308998.html?fromNEM=true&amp;unifiedeventid=459690"
+                                        href="https://munisantarosa.gob.pe/resena-historica//cocktails-in-style~e308998.html?fromNEM=true&amp;unifiedeventid=459690"
                                         tabindex="-1"
                                         >Cocktails in Style</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/the-perfect-cup-se77402.html?fromNEM=true&amp;unifiedeventid=456131"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/the-perfect-cup-se77402.html?fromNEM=true&amp;unifiedeventid=456131"
                                         tabindex="-1"
                                         >The Perfect Cup</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//apartment-kitchen-essentials~e321982.html?fromNEM=true&amp;unifiedeventid=467199"
+                                        href="https://munisantarosa.gob.pe/resena-historica//apartment-kitchen-essentials~e321982.html?fromNEM=true&amp;unifiedeventid=467199"
                                         tabindex="-1"
                                         >Apartment Kitchen Essentials</a
                                     ><a
                                         href="https://wayfair.com/daily-sales/festive-glassware-under-%2450~e331596.html?fromNEM=true&amp;unifiedeventid=472813"
                                         tabindex="-1"
                                         >Festive Glassware</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1"
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1"
                                         >Baby &amp; Kids</a
                                     ><a
                                         href="https://www.wayfair.com/baby-kids/cat/baby-kid-teen-furniture-decor-sale-c541544.html"
@@ -3181,7 +3181,7 @@
                                         tabindex="-1"
                                         >Teen Bedroom LAWU88SLOT Sale</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/wayfair-verified:-baby-&amp;-kids-se79200.html?fromNEM=true&amp;unifiedeventid=467460"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/wayfair-verified:-baby-&amp;-kids-se79200.html?fromNEM=true&amp;unifiedeventid=467460"
                                         tabindex="-1"
                                         >Wayfair Verified™ Kids LAWU88SLOT</a
                                     ><a
@@ -3189,11 +3189,11 @@
                                         tabindex="-1"
                                         >New Parent Essentials</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/customer-picks-baby-and-kids-se43817.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/customer-picks-baby-and-kids-se43817.html"
                                         tabindex="-1"
                                         >Customer Picks: Kids LAWU88SLOT</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/shop-greenguard-gold-certified-products-se80020.html?fromNEM=true&amp;unifiedeventid=473146"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/shop-greenguard-gold-certified-products-se80020.html?fromNEM=true&amp;unifiedeventid=473146"
                                         tabindex="-1"
                                         >GREENGUARD Gold Certified</a
                                     ><a href="https://www.wayfair.com/brand/bnd/sealy-baby-b101500.html" tabindex="-1"
@@ -3206,19 +3206,19 @@
                                     ><a href="https://www.wayfair.com/brand/bnd/delta-children-b815.html" tabindex="-1"
                                         >Delta Children</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//gifts-for-the-littles~e335942.html?fromNEM=true&amp;unifiedeventid=475610"
+                                        href="https://munisantarosa.gob.pe/resena-historica//gifts-for-the-littles~e335942.html?fromNEM=true&amp;unifiedeventid=475610"
                                         tabindex="-1"
                                         >Gifts for Littles</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/must-have-kids-rugs-se60922.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/must-have-kids-rugs-se60922.html"
                                         tabindex="-1"
                                         >Must-Have Kids Rugs</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//filters/kids%27-play-tables-they%27ll-love-se73923.html?unifiedeventid=441582"
+                                        href="https://munisantarosa.gob.pe/resena-historica//filters/kids%27-play-tables-they%27ll-love-se73923.html?unifiedeventid=441582"
                                         tabindex="-1"
                                         >Play Tables</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Home Improvement</a
                                     ><a
@@ -3392,11 +3392,11 @@
                                     ><a href="https://www.wayfair.com/building-a-bathroom~b54.html" tabindex="-1"
                                         >Renovate Your Bathroom</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//filters/reno-shop%3a-patterned-tile-se43690.html?unifiedeventid=335559"
+                                        href="https://munisantarosa.gob.pe/resena-historica//filters/reno-shop%3a-patterned-tile-se43690.html?unifiedeventid=335559"
                                         tabindex="-1"
                                         >Patterned Floor &amp; Wall Tile</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Appliances</a
                                     ><a
@@ -3552,18 +3552,18 @@
                                         >Frigidaire</a
                                     ><a href="https://www.wayfair.com/brand/bnd/lg-b1920.html" tabindex="-1">LG</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/smart-appliances-se72965.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/smart-appliances-se72965.html"
                                         tabindex="-1"
                                         >Smart Appliances</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//filters/coffee-makers-%26-blenders-se70595.html?unifiedeventid=424071"
+                                        href="https://munisantarosa.gob.pe/resena-historica//filters/coffee-makers-%26-blenders-se70595.html?unifiedeventid=424071"
                                         tabindex="-1"
                                         >Morning Countertop Essentials</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//retro-revival-appliances~e329922.html?fromNEM=true&amp;unifiedeventid=471766"
+                                        href="https://munisantarosa.gob.pe/resena-historica//retro-revival-appliances~e329922.html?fromNEM=true&amp;unifiedeventid=471766"
                                         tabindex="-1"
                                         >Retro Revival Appliances</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Pet</a
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Pet</a
                                     ><a
                                         href="https://www.wayfair.com/pet/cat/pet-furniture-sale-c541545.html"
                                         tabindex="-1"
@@ -3649,25 +3649,25 @@
                                     ><a href="https://www.wayfair.com/brand/bnd/aivituvin-b55412.html" tabindex="-1"
                                         >Aivituvin</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//pet-tech-shop~e285492.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//pet-tech-shop~e285492.html"
                                         tabindex="-1"
                                         >Pet Tech Shop</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio//ds/our-coziest-dog-beds-se49174.html"
+                                        href="https://munisantarosa.gob.pe/resena-historica//ds/our-coziest-dog-beds-se49174.html"
                                         tabindex="-1"
                                         >Cozy Dog Beds</a
                                     ><a href="https://www.wayfair.com/m/outdoor-pet-shop" tabindex="-1"
                                         >The Outdoor Pet Shop</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Holiday</a
                                     ><a
-                                        href="https://munisantarosa.gob.pe/directorio/"
+                                        href="https://munisantarosa.gob.pe/resena-historica/"
                                         tabindex="-1"
                                         >Shop by Room</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Verified</a
-                                    ><a href="https://munisantarosa.gob.pe/directorio/" tabindex="-1">Sale</a></span
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Verified</a
+                                    ><a href="https://munisantarosa.gob.pe/resena-historica/" tabindex="-1">Sale</a></span
                                 >
                                 <div
                                     data-test-id="NavigationList-dropdownLayout"
@@ -3684,7 +3684,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3715,7 +3715,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3746,7 +3746,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3777,7 +3777,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3808,7 +3808,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3839,7 +3839,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3870,7 +3870,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3901,7 +3901,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3932,7 +3932,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3963,7 +3963,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -3994,7 +3994,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -4025,7 +4025,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -4056,7 +4056,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -4087,7 +4087,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -4118,7 +4118,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: var(--_1pwc14f55);
                                                         --_2sufqn1: var(--_1pwc14f5b);
@@ -4167,7 +4167,7 @@
                                             <li class="_1y4lots0">
                                                 <a
                                                     class="_2sufqnb _2sufqn7"
-                                                    href="https://munisantarosa.gob.pe/directorio/"
+                                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                                     style="
                                                         --_2sufqn0: #990e35;
                                                         --_2sufqn1: #990e35;
@@ -4293,7 +4293,7 @@
                                     "@type": "ListItem",
                                     "position": 1,
                                     "item": {
-                                        "@id": "https://munisantarosa.gob.pe/directorio/",
+                                        "@id": "https://munisantarosa.gob.pe/resena-historica/",
                                         "name": "LAWU88SLOT"
                                     }
                                 },
@@ -4301,7 +4301,7 @@
                                     "@type": "ListItem",
                                     "position": 2,
                                     "item": {
-                                        "@id": "https://munisantarosa.gob.pe/directorio/",
+                                        "@id": "https://munisantarosa.gob.pe/resena-historica/",
                                         "name": "SLOT GACOR"
                                     }
                                 },
@@ -4309,7 +4309,7 @@
                                     "@type": "ListItem",
                                     "position": 3,
                                     "item": {
-                                        "@id": "https://munisantarosa.gob.pe/directorio/",
+                                        "@id": "https://munisantarosa.gob.pe/resena-historica/",
                                         "name": "APK SLOT GRATIS"
                                     }
                                 }
@@ -4320,7 +4320,7 @@
                         <ol class="sfhse63 sfhse61" data-enzyme-id="breadcrumbList">
                             <li>
                                 <a
-                                    href="https://munisantarosa.gob.pe/directorio/"
+                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                     data-hb-id="Link"
                                     data-test-id="breadcrumbs-crumb-0"
                                     class="rccwc50 rccwc51"
@@ -4329,7 +4329,7 @@
                             </li>
                             <li>
                                 <a
-                                    href="https://munisantarosa.gob.pe/directorio/"
+                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                     data-hb-id="Link"
                                     data-test-id="breadcrumbs-crumb-1"
                                     class="rccwc50 rccwc51"
@@ -4338,7 +4338,7 @@
                             </li>
                             <li>
                                 <a
-                                    href="https://munisantarosa.gob.pe/directorio/"
+                                    href="https://munisantarosa.gob.pe/resena-historica/"
                                     data-hb-id="Link"
                                     data-test-id="breadcrumbs-crumb-2"
                                     class="rccwc50 rccwc51"
