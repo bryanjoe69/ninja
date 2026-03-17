@@ -10,16 +10,16 @@
 <META name="ROBOTS" content="ALL" />
 <META name=description content="Slot Pulsa Terbaru 2026 menjadi pilihan terbaik bagi pemain yang ingin menikmati permainan slot online dengan proses transaksi yang mudah dan cepat. Melalui situs slot Axis deposit 10K tanpa potongan, pemain bisa melakukan deposit menggunakan pulsa Axis dengan nominal kecil mulai dari 10 ribu saja.">
 <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAY9KH35oL3hiNu3UyGLt-NB8unH8kaiEtLTafj_xF9eyleBASKxoSXCjmAZdHdK3_jN855lHEx-xLhb7EolVL2BR0pv_Nw-yg_KFwnURFMUUsETmja2vF3J_Ry87xPeJThu8k8woZyqjUZOU2IldNkgh0WJohT85IrCW1PbRoAwNDTaXS-IgNLwUqroh2/s100/lawu88slot-icon-official-484850563.png" />
-<link rel="canonical" href="https://elta.si/kontakt/" />
+<link rel="canonical" href="https://jgecuador.com/software/" />
 <link rel="amphtml" href="https://lawu88skuchi.pages.dev/" />
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://elta.si/kontakt/" />
-<link rel="alternate" media="handheld" href="https://elta.si/kontakt/" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://jgecuador.com/software/" />
+<link rel="alternate" media="handheld" href="https://jgecuador.com/software/" />
 <meta name="author" content="Lawu88slot, Lawu88, slot pulsa terbaru 2026, situs slot axis, deposit 10k">
 <meta property="og:title" content="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan"/>
 <meta property="og:type" content="product"/>
 <meta property="og:product:currency" content="USD"/>
 <meta property="og:product:price" content="6.58"/>
-<meta property="og:url" content="https://elta.si/kontakt/"/>
+<meta property="og:url" content="https://jgecuador.com/software/"/>
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"/>
 <meta property="og:description" content="Slot Pulsa Terbaru 2026 menjadi pilihan terbaik bagi pemain yang ingin menikmati permainan slot online dengan proses transaksi yang mudah dan cepat. Melalui situs slot Axis deposit 10K tanpa potongan, pemain bisa melakukan deposit menggunakan pulsa Axis dengan nominal kecil mulai dari 10 ribu saja."/>
 <meta name="robots" content="max-snippet:50, max-image-preview:large" />
@@ -189,12 +189,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://img.myipadbox.com/htdocs/js/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
 <SCRIPT>
-	var APP_URL = "https://elta.si/kontakt/";
+	var APP_URL = "https://jgecuador.com/software/";
 	var RES_URL = "https://img.myipadbox.com/htdocs";
 	var UPLOAD_URL = "https://img.myipadbox.com/upload/store";
 	var ID = 3783586;
 	var ITEM_NO = "MPD3913W";
-	var CURRENT_URL = "https://elta.si/kontakt/";
+	var CURRENT_URL = "https://jgecuador.com/software/";
 
 	var CONTACT = "Bertha";
 	var USER_ID = null;
@@ -227,7 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	"shippingWeight":{ "@type":"QuantitativeValue", "value":"0.217", "unitText":"kg" },
     "offers": {
 		"@type":"Offer",
-		"url":"https://elta.si/kontakt/",
+		"url":"https://jgecuador.com/software/",
 		"priceCurrency":"USD",
 		"price":"6.58",
 		"shippingDetails": {
@@ -938,7 +938,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				-->
 				<li id="header-appdownload-qrcode">
         			<div>
-						<a href="https://elta.si/kontakt/">
+						<a href="https://jgecuador.com/software/">
     						<span class="icon download-app"></span>
     						<span>App</span>
                         </a>
@@ -947,7 +947,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</li>
 				<li id="h5_qr_code">
         			<div>
-						<a href="https://elta.si/kontakt/">
+						<a href="https://jgecuador.com/software/">
     						<span class="icon client"></span>
     						<span>Mobile</span>
                         </a>
@@ -967,7 +967,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         			-->
         			        			<li>
         				<div>
-							<a id="msgMenu" target="_blank" href="https://elta.si/kontakt/">
+							<a id="msgMenu" target="_blank" href="https://jgecuador.com/software/">
 								<span class="icon online-message"></span>
 								<span>Message</span>
 								<span class="msgNot"></span>
@@ -1028,7 +1028,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<div class="top-content">
 			<div class="top-content-left">
 				<div class="logo">
-					<a href="https://elta.si/kontakt/">
+					<a href="https://jgecuador.com/software/">
 																<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRL2xrn0XclFRgYWDNh4p5Casr62Rpv1iOhS_s0uVLahOyj2yhoTO2dAojQIaRcv_TQwNCA-NyKYLlLYWJ_Z2Q8lRPWTyC1a1xkU48BdP-Cp_WKrGOX1tgnL7JZLxoGK-UZkG_ypbUkt_-Gc3yzMA0Q42ovcwzDF_g1uBTjlgsljlW3QJwoU9Aue2f4ZBr/s400/lawu88slot-logo-official-054015348.png" style="width:195px; padding-top:18px;">
 										</a>
 				</div>
@@ -1038,14 +1038,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul>
 						
 						<li class="top-wish">
-							<a href="https://elta.si/kontakt/">
+							<a href="https://jgecuador.com/software/">
 								<span class="top-wish-icon"></span>
 								<span>
 									Wish <br> List								</span>
 							</a>
 						</li>
 						<li style="margin-left:30px;" class="top-cart">
-							<a href="https://elta.si/kontakt/">
+							<a href="https://jgecuador.com/software/">
 								<span class="top-cart-icon"></span>
 								<span class="cart-qty-con">
 									<span class="cart-qty-arrow"></span>
@@ -1059,7 +1059,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 			<div class="top-content-fill top-content-fill-fi">
 				<div class="top-search">
-					<form action="https://elta.si/kontakt/" class="top-search-form" method="get">
+					<form action="https://jgecuador.com/software/" class="top-search-form" method="get">
 						<div class="top-content-left">
 							<div class="top-search-category">
 								<div class="top-search-select">
@@ -1184,16 +1184,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						});
 					</script>
 								<ul class="top-hot-search clearfix">
-    <li><a href="https://elta.si/kontakt/" target="_blank">LAWU88SLOT</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SLOT PULSA TERBARU 2026</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SITUS SLOT AXIS</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SLOT AXIS 10K</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SLOT DEPO 10K</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SLOT AXIS DEPO 10K</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SLOT PULSA 10K</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">BONUS SCATTER</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">PULSA TANPA POTONGAN</a></li>
-    <li><a href="https://elta.si/kontakt/" target="_blank">SITUS SLOT PULSA AXIS</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">LAWU88SLOT</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SLOT PULSA TERBARU 2026</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SITUS SLOT AXIS</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SLOT AXIS 10K</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SLOT DEPO 10K</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SLOT AXIS DEPO 10K</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SLOT PULSA 10K</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">BONUS SCATTER</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">PULSA TANPA POTONGAN</a></li>
+    <li><a href="https://jgecuador.com/software/" target="_blank">SITUS SLOT PULSA AXIS</a></li>
 </ul>
 				</div>
 			</div>
@@ -1202,7 +1202,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="top-category">
     <div class="content">
         <div id="product-category" class="product-category" style="z-index:110;">
-            <a href="https://elta.si/kontakt/">
+            <a href="https://jgecuador.com/software/">
                 <span class="shop-by">LAWU88SLOT</span>
             </a>
             <span class="shop-by-arrow"></span>
@@ -1211,7 +1211,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul id="header-category-list" class="category-list">
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_111457"></span>
                             <span>Apple Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1220,7 +1220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_111458"></span>
                             <span>Samsung Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1229,7 +1229,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_1"></span>
                             <span>Mobile Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1238,7 +1238,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_103106"></span>
                             <span>Apple Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1247,7 +1247,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_109713"></span>
                             <span>Samsung Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1256,7 +1256,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_109714"></span>
                             <span>Xiaomi Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1265,7 +1265,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_109715"></span>
                             <span>OnePlus &amp; OPPO Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1274,7 +1274,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_102159"></span>
                             <span>Mobile Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1283,7 +1283,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_110474"></span>
                             <span>Smart Wear</span>
                             <span class="category-list-arrow"></span>
@@ -1292,7 +1292,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_100735"></span>
                             <span>Smart Phones</span>
                             <span class="category-list-arrow"></span>
@@ -1301,7 +1301,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_105365"></span>
                             <span>DJI &amp; GoPro Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1310,7 +1310,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_102157"></span>
                             <span>Camera Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1319,7 +1319,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_4"></span>
                             <span>Game Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1328,7 +1328,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_3"></span>
                             <span>Consumer Electronics</span>
                             <span class="category-list-arrow"></span>
@@ -1337,7 +1337,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_2"></span>
                             <span>Computer &amp; Networking</span>
                             <span class="category-list-arrow"></span>
@@ -1346,7 +1346,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_100848"></span>
                             <span>In Car</span>
                             <span class="category-list-arrow"></span>
@@ -1355,7 +1355,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_100035"></span>
                             <span>Security</span>
                             <span class="category-list-arrow"></span>
@@ -1364,7 +1364,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_101026"></span>
                             <span>Outdoor &amp; Sports</span>
                             <span class="category-list-arrow"></span>
@@ -1373,7 +1373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_100715"></span>
                             <span>Home &amp; Garden</span>
                             <span class="category-list-arrow"></span>
@@ -1382,7 +1382,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
 
                     <li>
-                        <a href="https://elta.si/kontakt/">
+                        <a href="https://jgecuador.com/software/">
                             <span class="category-list-icon icon_111368"></span>
                             <span>Print Your Demand(POD)</span>
                             <span class="category-list-arrow"></span>
@@ -1433,9 +1433,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <DIV id=ppcontainer>
 <DIV class="clearfix ppTop" id="ppTop">
 	<div style="padding-top:0.5em" class="nextprev">  
-		        <a class="itemnext" href="https://elta.si/kontakt/">Next</a>
+		        <a class="itemnext" href="https://jgecuador.com/software/">Next</a>
 		        <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-		        <a class="itemprev" href="https://elta.si/kontakt/">Previous</a>
+		        <a class="itemprev" href="https://jgecuador.com/software/">Previous</a>
 		    </div>
 			<style>
     .n-columns-2 {
@@ -1483,40 +1483,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <a href="https://lawu88skuchi.pages.dev/" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div>
-	<A class="recommend icon" href="https://elta.si/kontakt/" onclick="mailToFriends()">Mail to Friends</A> 
-	<A class="fav-btn fav2 icon " href="https://elta.si/kontakt/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
+	<A class="recommend icon" href="https://jgecuador.com/software/" onclick="mailToFriends()">Mail to Friends</A> 
+	<A class="fav-btn fav2 icon " href="https://jgecuador.com/software/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
 	<DIV class=breadCrumb>
-		<A class="catpos" catId="0" href="https://elta.si/kontakt/">LAWU88SLOT</A>
-    	    		»&nbsp; <A class="catpos" catId="102159" href="https://elta.si/kontakt/">SITUS SLOT PULSA AXIS</A>
-		    		»&nbsp; <A class="catpos" catId="101193" href="https://elta.si/kontakt/">SLOT PULSA TERBARU 2026</A>
-		    		»&nbsp; <A class="catpos" catId="101209" href="https://elta.si/kontakt/">PULSA TANPA POTONGAN</A>
+		<A class="catpos" catId="0" href="https://jgecuador.com/software/">LAWU88SLOT</A>
+    	    		»&nbsp; <A class="catpos" catId="102159" href="https://jgecuador.com/software/">SITUS SLOT PULSA AXIS</A>
+		    		»&nbsp; <A class="catpos" catId="101193" href="https://jgecuador.com/software/">SLOT PULSA TERBARU 2026</A>
+		    		»&nbsp; <A class="catpos" catId="101209" href="https://jgecuador.com/software/">PULSA TANPA POTONGAN</A>
 				
 				                                                <div id="catdiv0" class="catdiv">
             	            	<div style="width:320px;">
     <div style="float:left;width:150px;">
-        <a class="catlink" href="https://elta.si/kontakt/">Apple Parts</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Mobile Parts</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Samsung Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">OnePlus &amp; OPPO Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Smart Wear</a>
-        <a class="catlink" href="https://elta.si/kontakt/">DJI &amp; GoPro Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Game Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Computer &amp; Networking</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Security</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Home &amp; Garden</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Apple Parts</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Mobile Parts</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Samsung Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">OnePlus &amp; OPPO Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Smart Wear</a>
+        <a class="catlink" href="https://jgecuador.com/software/">DJI &amp; GoPro Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Game Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Computer &amp; Networking</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Security</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Home &amp; Garden</a>
     </div>
 
     <div style="float:right;width:150px;">
-        <a class="catlink" href="https://elta.si/kontakt/">Samsung Parts</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Apple Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Xiaomi Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Mobile Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Smart Phones</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Camera Accessories</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Consumer Electronics</a>
-        <a class="catlink" href="https://elta.si/kontakt/">In Car</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Outdoor &amp; Sports</a>
-        <a class="catlink" href="https://elta.si/kontakt/">Print Your Demand(POD)</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Samsung Parts</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Apple Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Xiaomi Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Mobile Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Smart Phones</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Camera Accessories</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Consumer Electronics</a>
+        <a class="catlink" href="https://jgecuador.com/software/">In Car</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Outdoor &amp; Sports</a>
+        <a class="catlink" href="https://jgecuador.com/software/">Print Your Demand(POD)</a>
     </div>
 
     <div style="clear:both;"></div>
@@ -1525,39 +1525,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="catdiv102159" class="catdiv">
     <div style="width:320px;">
         <div style="float:left;width:150px;">
-            <a class="catlink" href="https://elta.si/kontakt/">Motorola</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Huawei</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Nothing</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Nokia</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tecno</a>
-            <a class="catlink" href="https://elta.si/kontakt/">LG</a>
-            <a class="catlink" href="https://elta.si/kontakt/">ASUS</a>
-            <a class="catlink" href="https://elta.si/kontakt/">More Brand Cases</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Cable &amp; Charger</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Screen Protector</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Camera Lens Protector</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tablet PC Tempered Glass Film</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tablet PC Keyboard</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Universal Tablet PC Case</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Carry Cases</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Motorola</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Huawei</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Nothing</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Nokia</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tecno</a>
+            <a class="catlink" href="https://jgecuador.com/software/">LG</a>
+            <a class="catlink" href="https://jgecuador.com/software/">ASUS</a>
+            <a class="catlink" href="https://jgecuador.com/software/">More Brand Cases</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Cable &amp; Charger</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Screen Protector</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Camera Lens Protector</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tablet PC Tempered Glass Film</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tablet PC Keyboard</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Universal Tablet PC Case</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Carry Cases</a>
         </div>
 
         <div style="float:right;width:150px;">
-            <a class="catlink" href="https://elta.si/kontakt/">Google</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Honor</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Sony</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Infinix</a>
-            <a class="catlink" href="https://elta.si/kontakt/">ZTE</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Ulefone</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Alcatel</a>
-            <a class="catlink" href="https://elta.si/kontakt/">More Tablet PC Cases</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tempered Glass Film</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Earphone &amp; Accessories</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Display Model</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tablet PC Screen Protector</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Tablet PC Accessories</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Armband</a>
-            <a class="catlink" href="https://elta.si/kontakt/">Cases Packaging</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Google</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Honor</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Sony</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Infinix</a>
+            <a class="catlink" href="https://jgecuador.com/software/">ZTE</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Ulefone</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Alcatel</a>
+            <a class="catlink" href="https://jgecuador.com/software/">More Tablet PC Cases</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tempered Glass Film</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Earphone &amp; Accessories</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Display Model</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tablet PC Screen Protector</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Tablet PC Accessories</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Armband</a>
+            <a class="catlink" href="https://jgecuador.com/software/">Cases Packaging</a>
         </div>
 
         <div style="clear:both;"></div>
@@ -1565,15 +1565,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 <div id="catdiv101193" class="catdiv">
-    <a class="catlink" href="https://elta.si/kontakt/">For iPhone &amp; iPad</a>
-    <a class="catlink" href="https://elta.si/kontakt/">For Galaxy</a>
-    <a class="catlink" href="https://elta.si/kontakt/">For Huawei</a>
-    <a class="catlink" href="https://elta.si/kontakt/">For Xiaomi</a>
-    <a class="catlink" href="https://elta.si/kontakt/">Other Phone Model</a>
-    <a class="catlink" href="https://elta.si/kontakt/">Watch Model</a>
-    <a class="catlink" href="https://elta.si/kontakt/">Camera Model</a>
-    <a class="catlink" href="https://elta.si/kontakt/">Laptop Model</a>
-    <a class="catlink" href="https://elta.si/kontakt/">Speaker Model</a>
+    <a class="catlink" href="https://jgecuador.com/software/">For iPhone &amp; iPad</a>
+    <a class="catlink" href="https://jgecuador.com/software/">For Galaxy</a>
+    <a class="catlink" href="https://jgecuador.com/software/">For Huawei</a>
+    <a class="catlink" href="https://jgecuador.com/software/">For Xiaomi</a>
+    <a class="catlink" href="https://jgecuador.com/software/">Other Phone Model</a>
+    <a class="catlink" href="https://jgecuador.com/software/">Watch Model</a>
+    <a class="catlink" href="https://jgecuador.com/software/">Camera Model</a>
+    <a class="catlink" href="https://jgecuador.com/software/">Laptop Model</a>
+    <a class="catlink" href="https://jgecuador.com/software/">Speaker Model</a>
 </div>
 
 
@@ -1636,8 +1636,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 					<div style="overflow:hidden;text-align:center;padding-top:10px;border-top:1px solid #ddd;margin-top:10px;">
 						<b>SUNSKY Free App</b>
-						<a target="_blank" href="https://elta.si/kontakt/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/android_app.png"></a>
-						<a target="_blank" href="https://elta.si/kontakt/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/apple_app.png"></a>
+						<a target="_blank" href="https://jgecuador.com/software/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/android_app.png"></a>
+						<a target="_blank" href="https://jgecuador.com/software/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/apple_app.png"></a>
 					</div>
 				</div>
 			</div>
@@ -1647,7 +1647,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<form id=buyForm action="https://elta.si/kontakt/" method=post>
+<form id=buyForm action="https://jgecuador.com/software/" method=post>
 <div style="display:none" class="productfixtop">
   <div class="fixtopimg">
 	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAY9KH35oL3hiNu3UyGLt-NB8unH8kaiEtLTafj_xF9eyleBASKxoSXCjmAZdHdK3_jN855lHEx-xLhb7EolVL2BR0pv_Nw-yg_KFwnURFMUUsETmja2vF3J_Ry87xPeJThu8k8woZyqjUZOU2IldNkgh0WJohT85IrCW1PbRoAwNDTaXS-IgNLwUqroh2/s100/lawu88slot-icon-official-484850563.png" alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan">
@@ -1669,28 +1669,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</TABLE>
 	<div class="modelDiv">
 							<DIV class="colorDiv currModel">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3911W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >LAWU88SLOT</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3911W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >LAWU88SLOT</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3910W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT PULSA TERBARU 2026</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3910W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT PULSA TERBARU 2026</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3912W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SITUS SLOT AXIS</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3912W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SITUS SLOT AXIS</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3913W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT AXIS 10K</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3913W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT AXIS 10K</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3923W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT DEPO 10K</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3923W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT DEPO 10K</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3922W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT AXIS DEPO 10K</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3922W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT AXIS DEPO 10K</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3921W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT PULSA 10K</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3921W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >SLOT PULSA 10K</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://elta.si/kontakt/" onclick="view('MPD3924W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >PULSA TANPA POTONGAN</div></a>
+    			<a href="https://jgecuador.com/software/" onclick="view('MPD3924W')" class="modelImg" prevImg="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png"><div >PULSA TANPA POTONGAN</div></a>
     		</DIV>
 					<div class="more-style"><i></i><i style="top:5px;"></i></div>
 	</div>
@@ -1711,7 +1711,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="productBuyButton" style="margin-top:7px;">
     <input type="hidden" class="productId" name="productId" value="3783586" />
     <input type="hidden" class="specsId" name="specsId" />
-    <input type="hidden" name="toUrl" value="https://elta.si/kontakt/" />
+    <input type="hidden" name="toUrl" value="https://jgecuador.com/software/" />
         	<table border="0" cellspacing="0" cellpadding="3">
 		<tr>
 							<td>
@@ -1773,7 +1773,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <div class="product-shipping-more">
             	<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle />
-            	<a href="https://elta.si/kontakt/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
+            	<a href="https://jgecuador.com/software/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
 				<DIV class="divWay" id="divWay">
                     <TABLE class=tblWay border=0 cellpadding=5 cellspacing=0 width="100%">
                     	<TR style="background-color:#EEEFF0">
@@ -1794,7 +1794,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         	<div align="right" style="margin-top:5px;">
         		by <span class="shippingWay bold"></span> &nbsp;
         		<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle />
-            	<a href="https://elta.si/kontakt/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
+            	<a href="https://jgecuador.com/software/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
         	</div>
         </div>
 		<div class="divSC" id="divSCNoWays" style="display:none;margin-top:4px;">
@@ -1890,13 +1890,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</TR>
     <TR>
     	<TD>
-			<DIV class="ico_contact ico_chat" title="Online Inquiry" align="left"><A id="ico_chat" href="https://elta.si/kontakt/" rel="#inquiryDlg">Online Inquiry</a></DIV>
+			<DIV class="ico_contact ico_chat" title="Online Inquiry" align="left"><A id="ico_chat" href="https://jgecuador.com/software/" rel="#inquiryDlg">Online Inquiry</a></DIV>
     	</TD>
 		<TD></TD>
 	</TR>
 		<TR>
     	<TD>
-    		<DIV class="ico_contact ico_whatsapp" title="WhatsApp" align="left"><a href="https://elta.si/kontakt/" target="_blank">Hubungi Kami</a></DIV>
+    		<DIV class="ico_contact ico_whatsapp" title="WhatsApp" align="left"><a href="https://jgecuador.com/software/" target="_blank">Hubungi Kami</a></DIV>
     	</TD>
 		<TD></TD>
 	</TR>
@@ -1914,25 +1914,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<TD align="right" class="contact-info-more">
 			<div class="clearfix">
 				<div style="float:left;">
-				    			<A class="global-more" href="https://elta.si/kontakt/" onclick="showChat(event)" title="More Live Chat">More</A>
+				    			<A class="global-more" href="https://jgecuador.com/software/" onclick="showChat(event)" title="More Live Chat">More</A>
     							</div>
 				<DIV class="itemDiv fbLinks" style="float:right;">
-            		<a class="fbLink priceMatch" href="https://elta.si/kontakt/" rel="#priceMatchDlg">Price Match</a>
-            		<a class="fbLink errorReport" href="https://elta.si/kontakt/" rel="#errorReportDlg">Error Report</a>
+            		<a class="fbLink priceMatch" href="https://jgecuador.com/software/" rel="#priceMatchDlg">Price Match</a>
+            		<a class="fbLink errorReport" href="https://jgecuador.com/software/" rel="#errorReportDlg">Error Report</a>
             	</DIV>
 			</div>
 		</TD>
     </TR>
     </TABLE>
 	<DIV class="itemDiv fbLinks" style="margin-top:10px">
-		<a class="fbLink priceMatch" href="https://elta.si/kontakt/" rel="#priceMatchDlg">Price Match</a>
-		<a class="fbLink errorReport" href="https://elta.si/kontakt/" rel="#errorReportDlg">Error Report</a>
+		<a class="fbLink priceMatch" href="https://jgecuador.com/software/" rel="#priceMatchDlg">Price Match</a>
+		<a class="fbLink errorReport" href="https://jgecuador.com/software/" rel="#errorReportDlg">Error Report</a>
 	</DIV>
 	<div class="return-service clearfix">
 		<table>
 			<tr>
 				<td class="return-service-icon"><div class="return-service-icon"><img src="https://img.myipadbox.com/htdocs/images/guarantee.png"></div></td>
-				<td class="return-service-content">We always strive to achieve low prices and good quality, and promised insured and return service. <br><a href="https://elta.si/kontakt/" target="_blank">View after-sales terms</a></td>
+				<td class="return-service-content">We always strive to achieve low prices and good quality, and promised insured and return service. <br><a href="https://jgecuador.com/software/" target="_blank">View after-sales terms</a></td>
 			</tr>
 		</table>
 	</div>
@@ -1943,7 +1943,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<table id="picTbl" border="0" cellpadding=0 cellspacing=0>
 			<tr>
 				<td>
-					<A href="https://elta.si/kontakt/" onclick="showImgList()">
+					<A href="https://jgecuador.com/software/" onclick="showImgList()">
 						<DIV id="divSmall" style="position:relative;">
 							<IMG style="width:100%" alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan" id="mainImg" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png" zoom="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOeF6V5c5iaXjZN-p7eroXdhvRPlp18mlBwuPkDxZFfOmxrK2WMsPI0fcN2-z4c-g3YjLbSgvCOgyA3mh-qV84sLVAjg2aJw6HiWAWlD4B30OZfDV2NDHr3rk7iz1p-UMIX9nitqCY4Uq8puSApvnKhr-e1c5Rdg8_YcF8ZxJPMR1dmki9AbLH3n5SNlOE/s1000/LAWUNEW1S.png" border="0" style="max-width:500px;">
 							<div id="divMove" style="position:absolute;display:none;opacity:.5;background:#CCC;width:100px;height:100px;z-index:1000;"></div>
@@ -1960,7 +1960,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul class="clearfix" id="picCtn" style="width:371px; display:block;">
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan"
@@ -1972,7 +1972,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 1"
@@ -1984,7 +1984,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 2"
@@ -1996,7 +1996,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 3"
@@ -2008,7 +2008,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 4"
@@ -2020,7 +2020,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 5"
@@ -2032,7 +2032,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
 
             <li>
-                <a href="https://elta.si/kontakt/" onclick="showImgList()">
+                <a href="https://jgecuador.com/software/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="Slot Pulsa Terbaru 2026 – Situs Slot Axis Deposit 10K Tanpa Potongan - 6"
@@ -2053,13 +2053,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
     	<DIV style="float:right;">
 			<DIV>
-        		        		<div style="float:left;margin-right:0px;"><div class="fb-share-button" data-href="https://elta.si/kontakt/" data-layout="button_count"></div></div>
-				<div style="float:left;margin-right:0px;"><a class="twitter-share-button" href="https://elta.si/kontakt/"></a></div>
-				<div class="pinDiv" style="float:left;margin-right:10px;"><a data-pin-do="buttonPin" data-pin-count="beside" href="https://elta.si/kontakt/"><!--img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /--></a></div>
+        		        		<div style="float:left;margin-right:0px;"><div class="fb-share-button" data-href="https://jgecuador.com/software/" data-layout="button_count"></div></div>
+				<div style="float:left;margin-right:0px;"><a class="twitter-share-button" href="https://jgecuador.com/software/"></a></div>
+				<div class="pinDiv" style="float:left;margin-right:10px;"><a data-pin-do="buttonPin" data-pin-count="beside" href="https://jgecuador.com/software/"><!--img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /--></a></div>
 				<div style="float:left;"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">document.write(VK.Share.button(false,{type: "round", text: "Share"}));</script></div>
 				<DIV style="clear:both;"></DIV>
 			</DIV>
-			<DIV style="font-weight:bold;color:#15f900;" align="center"><a href="https://elta.si/kontakt/" target="_blank" style="font-weight:bold;color:#15f900;display:block;max-width:320px;">Share it, earn Points &amp; Promo Rebates</a></DIV>
+			<DIV style="font-weight:bold;color:#15f900;" align="center"><a href="https://jgecuador.com/software/" target="_blank" style="font-weight:bold;color:#15f900;display:block;max-width:320px;">Share it, earn Points &amp; Promo Rebates</a></DIV>
     	</DIV>
 
 		<DIV style="clear:both;"></DIV>
@@ -2100,7 +2100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   	
 <div>
   <p>
-    <a href="https://elta.si/kontakt/">Slot Pulsa Terbaru 2026</a> menjadi pilihan terbaik bagi pemain yang ingin menikmati permainan slot online dengan proses transaksi yang mudah dan cepat. Melalui situs slot Axis deposit 10K tanpa potongan, pemain bisa melakukan deposit menggunakan pulsa Axis dengan nominal kecil mulai dari 10 ribu saja. Sistem transaksi yang praktis, permainan slot yang lengkap, serta peluang kemenangan besar membuat platform slot pulsa terbaru 2026 semakin populer di kalangan pemain.
+    <a href="https://jgecuador.com/software/">Slot Pulsa Terbaru 2026</a> menjadi pilihan terbaik bagi pemain yang ingin menikmati permainan slot online dengan proses transaksi yang mudah dan cepat. Melalui situs slot Axis deposit 10K tanpa potongan, pemain bisa melakukan deposit menggunakan pulsa Axis dengan nominal kecil mulai dari 10 ribu saja. Sistem transaksi yang praktis, permainan slot yang lengkap, serta peluang kemenangan besar membuat platform slot pulsa terbaru 2026 semakin populer di kalangan pemain.
   </p>
 
   <p>
@@ -2125,9 +2125,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<td class="params_name">Compatible with</td>
 			<td class="params_value">
 						  <div>
-				<a href="https://elta.si/kontakt/"><b>LAWU88SLOT</b></a>&nbsp;
+				<a href="https://jgecuador.com/software/"><b>LAWU88SLOT</b></a>&nbsp;
 																		
-										<a href="https://elta.si/kontakt/">SLOT PULSA TERBARU 2026</a>
+										<a href="https://jgecuador.com/software/">SLOT PULSA TERBARU 2026</a>
 											  </div>
 						</td>
 					</tr>
@@ -2205,12 +2205,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</td>
 				<td>
 					<div style="margin-bottom:5px;">
-						The customers who buy the product and write good quality reviews could obtain 10 <a href='https://elta.si/kontakt/' target='_blank' style='text-decoration:underline;'>Lawu88slot Points</a>($0.80).
+						The customers who buy the product and write good quality reviews could obtain 10 <a href='https://jgecuador.com/software/' target='_blank' style='text-decoration:underline;'>Lawu88slot Points</a>($0.80).
 					</div>
 										<div style="float:left;">
-						<a class="checkoutbtn" style="text-decoration:none" href="https://elta.si/kontakt/" onclick="showReviewDlg()">write a review</a>
+						<a class="checkoutbtn" style="text-decoration:none" href="https://jgecuador.com/software/" onclick="showReviewDlg()">write a review</a>
 					</div>
-					<div style="float:right;"><img src="https://img.myipadbox.com/htdocs/images/xgift.gif" align="absmiddle"> <a href="https://elta.si/kontakt/" target="_blank" style="text-decoration:underline;">Win a Gift</a></div>
+					<div style="float:right;"><img src="https://img.myipadbox.com/htdocs/images/xgift.gif" align="absmiddle"> <a href="https://jgecuador.com/software/" target="_blank" style="text-decoration:underline;">Win a Gift</a></div>
 					<div style="clear:both;"></div>
 				</td>
 			</tr>
@@ -2218,15 +2218,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 				<DIV class="rv-tabbar">
 			<DIV class="rv-tab rv-tab-cur">
-				<a href="https://elta.si/kontakt/">All Reviews</a>
+				<a href="https://jgecuador.com/software/">All Reviews</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV class="rv-tab">
-				<a href="https://elta.si/kontakt/#reviews">Medium Reviews (<span class="rv-cnt">0</span>)</a>
+				<a href="https://jgecuador.com/software/#reviews">Medium Reviews (<span class="rv-cnt">0</span>)</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV class="rv-tab rv-tab-end">
-								<a href="https://elta.si/kontakt/">Bad Reviews (<span class="rv-cnt">0</span>)</a>
+								<a href="https://jgecuador.com/software/">Bad Reviews (<span class="rv-cnt">0</span>)</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV style="clear:both;"></DIV>
@@ -2476,12 +2476,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <DIV id=footerTop>
     	<DIV style="float:right;">
     		<DIV style="float:left;margin-right:7px;padding-top:7px;">Follow Us</DIV>
-    		<a class="community facebook" href="https://elta.si/kontakt/" target="_blank" title="Facebook" rel="nofollow noopener noreferrer"></a>
-			<a class="community instagram" href="https://elta.si/kontakt/" target="_blank" title="Instagram" rel="nofollow noopener noreferrer"></a>
-        	<a class="community youtube" href="https://elta.si/kontakt/" target="_blank" title="Youtube" rel="nofollow noopener noreferrer"></a>
-        	<a class="community twitter" href="https://elta.si/kontakt/" target="_blank" title="Twitter" rel="nofollow noopener noreferrer"></a>
-        	<a class="community pinterest" href="https://elta.si/kontakt/" target="_blank" title="Pinterest" rel="nofollow noopener noreferrer"></a>
-			<a class="community tiktok" href="https://elta.si/kontakt/" target="_blank" title="Tiktok" rel="nofollow noopener noreferrer"></a>
+    		<a class="community facebook" href="https://jgecuador.com/software/" target="_blank" title="Facebook" rel="nofollow noopener noreferrer"></a>
+			<a class="community instagram" href="https://jgecuador.com/software/" target="_blank" title="Instagram" rel="nofollow noopener noreferrer"></a>
+        	<a class="community youtube" href="https://jgecuador.com/software/" target="_blank" title="Youtube" rel="nofollow noopener noreferrer"></a>
+        	<a class="community twitter" href="https://jgecuador.com/software/" target="_blank" title="Twitter" rel="nofollow noopener noreferrer"></a>
+        	<a class="community pinterest" href="https://jgecuador.com/software/" target="_blank" title="Pinterest" rel="nofollow noopener noreferrer"></a>
+			<a class="community tiktok" href="https://jgecuador.com/software/" target="_blank" title="Tiktok" rel="nofollow noopener noreferrer"></a>
         	<div style="clear:both;"></div>
     	</DIV>
     	<DIV style="clear:both"></DIV>
@@ -2495,43 +2495,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="clearfix" id="footerMain">
     <UL>
         <LI class=footerHeading>Contact Information</LI>
-		<LI><a href="https://elta.si/kontakt/" target="_blank">About Us</a></LI>
-		<LI><a href="https://elta.si/kontakt/" target="_blank">Contact Us</a></LI>
+		<LI><a href="https://jgecuador.com/software/" target="_blank">About Us</a></LI>
+		<LI><a href="https://jgecuador.com/software/" target="_blank">Contact Us</a></LI>
         <LI style="padding-top:10px;">Slot Pulsa Terbaru 2026 menjadi pilihan terbaik bagi pemain yang ingin menikmati permainan slot online dengan proses transaksi yang mudah dan cepat. Melalui situs slot Axis deposit 10K tanpa potongan, pemain bisa melakukan deposit menggunakan pulsa Axis dengan nominal kecil mulai dari 10 ribu saja.</LI>
     </UL>
         <UL>
         <LI class=footerHeading>Service &amp; Support</LI>
-        		  			<LI><a href="https://elta.si/kontakt/" target="_blank">Wholesale Program</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Drop Shipping</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Open API Services</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Shopify ERP</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">OEM Sourcing</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Privacy Notice</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Terms of Use</a></LI>
+        		  			<LI><a href="https://jgecuador.com/software/" target="_blank">Wholesale Program</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Drop Shipping</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Open API Services</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Shopify ERP</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">OEM Sourcing</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Privacy Notice</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Terms of Use</a></LI>
 		      	    </UL>
 	    <UL>
         <LI class=footerHeading>Payment &amp; Shipping</LI>
-        		  			<LI><a href="https://elta.si/kontakt/" target="_blank">Payment Method</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">SUNSKY Points</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">How to Unsubscribe</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Shipping &amp; Handling</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Duties &amp; Taxes</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Refund &amp; Cancellation</a></LI>
-		      			  			<LI><a href="https://elta.si/kontakt/" target="_blank">Affiliate Program</a></LI>
+        		  			<LI><a href="https://jgecuador.com/software/" target="_blank">Payment Method</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">SUNSKY Points</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">How to Unsubscribe</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Shipping &amp; Handling</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Duties &amp; Taxes</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Refund &amp; Cancellation</a></LI>
+		      			  			<LI><a href="https://jgecuador.com/software/" target="_blank">Affiliate Program</a></LI>
 		      	    </UL>
 		<UL class="footer-icon">
         <LI class=footerHeading>Help &amp; Resources</LI>
         <LI>
     		<STRONG><img src="https://img.myipadbox.com/htdocs/images/icon_4.gif">&nbsp;</STRONG>
-    		<a href="https://elta.si/kontakt/" target="_blank">View Site Map</a>
+    		<a href="https://jgecuador.com/software/" target="_blank">View Site Map</a>
     	</LI>
         <LI>
     		<STRONG><img src="https://img.myipadbox.com/htdocs/images/rss.gif">&nbsp;</STRONG>
-    		<a href="https://elta.si/kontakt/" target="_blank">Get RSS Feed</a>
+    		<a href="https://jgecuador.com/software/" target="_blank">Get RSS Feed</a>
     	</LI>
     	<LI>
         	<STRONG><span class="download_app"></span>&nbsp;</STRONG>
-        	<A href="https://elta.si/kontakt/" target="_blank">Download LAWU88SLOT App</A>
+        	<A href="https://jgecuador.com/software/" target="_blank">Download LAWU88SLOT App</A>
     	</LI>
 		<LI>
         	<table>
@@ -2573,7 +2573,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 		jQuery.ajax({
 			type: "POST",
-			url: "https://elta.si/kontakt/",
+			url: "https://jgecuador.com/software/",
 			data: { email: email },
     		success: function(rspTxt) {
 				$(".submit").attr("disabled", false);
@@ -2602,7 +2602,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		if (kv[0] > 0) {
 			m.find(".msgNot").css("display", "inline-block");
 			m.find(".msgNot span").text(kv[0]);
-			m.attr("href", "https://elta.si/kontakt/" + kv[1]);
+			m.attr("href", "https://jgecuador.com/software/" + kv[1]);
 			$('#chat-bottom-form .chat-bottom-header .chat-bottom-msgcount').text(kv[0]).show();
 			$('#chat-bottom-form .chat-bottom-header .chat-bottom-icon img').attr('src', 'https://img.myipadbox.com/htdocs/images/message_icon.gif');
 			$('#chat-bottom-form').addClass('msgalert');
@@ -3200,7 +3200,7 @@ document.addEventListener('click', function (e) {
     <H4>Message</H4>
     <P class="cartInfo" style="display:none;"><SPAN id="itemCount" class="red bold"></SPAN>&nbsp;kind(s) of item(s) in cart, total amount: <SPAN id="cartAmount" class="red bold"></SPAN></P>
 	<P class="skin-gray cartInfo" style="display:none;">
-		<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://elta.si/kontakt/" target="_top">
+		<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://jgecuador.com/software/" target="_top">
 			View Cart
 		</A>
 	</P>
@@ -3388,11 +3388,11 @@ document.addEventListener('click', function (e) {
 					    		<SPAN 	><DIV class="formField clearfix alt ">
         		<DIV class="form_title" style="float:left;">Your Rating:</DIV>
         		<DIV style="float:right;width:454px;margin-right:138px;margin-top:4px">
-        			<a href="https://elta.si/kontakt/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
-    				<a href="https://elta.si/kontakt/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
-    				<a href="https://elta.si/kontakt/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
-    				<a href="https://elta.si/kontakt/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
-    				<a href="https://elta.si/kontakt/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
+        			<a href="https://jgecuador.com/software/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
+    				<a href="https://jgecuador.com/software/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
+    				<a href="https://jgecuador.com/software/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
+    				<a href="https://jgecuador.com/software/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
+    				<a href="https://jgecuador.com/software/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
     				<input type="hidden" id="score" name="score" value="0" />
         		</DIV>
         	</DIV></SPAN>  
